@@ -1,4 +1,4 @@
-# Mallows_Permutation
+# Mallows Permutation
 Simulating the Mallows Permutation when parameter `q` is close to `1` and `n >> 1/(1-q)`.
 # Mallows Processes
 Given a parameter `0 < q < 1`, the Mallows Processes `X_t` is defined as follows,
